@@ -23,8 +23,3 @@ Firebase Storage
 Real-Time Communication: Agora RTC
 AI Assistant: Gemini API (Echo AI)
 
-![WhatsApp Image 2025-09-16 at 21 13 19](https://github.com/user-attachments/assets/6be9d5ba-a8e4-4255-b9dd-0bc663e2aa5f)
-![WhatsApp Image 20![WhatsApp Image 2025-09-16 at 21 13 06](https://github.com/user-attachments/assets/090c2541-b171-4b1a-bb28-12f672492e41)
-25-09-16 at 21 13 ![WhatsApp Image 2025-09-16 at 21 13 18 (1)](https://github.com/user-attachments/assets/17986aee-33ec-4f4f-984e-762ba1291ae8)
-17](https://github.com/user-attachments/assets/7825e98d-af0b-4963-b1f2-53e3abcd435c)
-![WhatsApp Image 2025-09-16 at 21 13 18](https://github.com/user-attachments/assets/147f74e0-3f63-4ed1-aef3-898f8bdc88ce)
